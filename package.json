@@ -72,7 +72,7 @@
   "peerDependencies": {
     "@vue/compiler-sfc": "^3.0.4",
     "@vue/server-renderer": "^3.0.4",
-    "@vueuse/head": "^0.5.1",
+    "@vueuse/head": "^0.6.0",
     "critters": "^0.0.10",
     "vite": "^2.0.0",
     "vue": "^3.0.4",
